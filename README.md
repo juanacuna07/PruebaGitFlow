@@ -1,7 +1,7 @@
 # Nombre del Proyecto
 
 ## Descripción
-Proyecto de práctica para aprender el flujo de trabajo Git Flow correctamente.
+Proyecto de práctica para aprender el flujo de trabajo Git Flow de forma correcta y ordenada.
 
 ## Instalación
 1. Clona el repositorio
