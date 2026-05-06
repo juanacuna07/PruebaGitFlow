@@ -1,7 +1,7 @@
 # Nombre del Proyecto
 
 ## Descripción
-Proyecto de práctica para aprender el flujo de trabajo Git Flow correctamente.
+Proyecto de práctica para aprender el flujo de trabajo Git Flow de forma correcta y ordenada.
 
 ## Instalación
 1. Clona el repositorio
@@ -17,5 +17,9 @@ Ejecuta `npm start` para iniciar el proyecto.
 Se usa Git Flow con ramas: main, develop, feature, release y hotfix.
 
 ## Evidencias
-- PR feature/readme-base → develop
-- Tag v1.0.0
+- [Fork del repositorio](https://github.com/juanacuna07/PruebaGitFlow)
+- [PR feature/readme-base → develop](https://github.com/juanacuna07/PruebaGitFlow/pull/5)
+- [PR release/v1.0.0 → main](https://github.com/juanacuna07/PruebaGitFlow/pull/7)
+- [PR hotfix/readme-typo → main](https://github.com/juanacuna07/PruebaGitFlow/pull/8)
+- [Tag v1.0.0](https://github.com/juanacuna07/PruebaGitFlow/releases/tag/v1.0.0)
+- Práctica completada: Mayo 2026
