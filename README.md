@@ -22,3 +22,4 @@ Se usa Git Flow con ramas: main, develop, feature, release y hotfix.
 - [PR release/v1.0.0 → main](https://github.com/juanacuna07/PruebaGitFlow/pull/7)
 - [PR hotfix/readme-typo → main](https://github.com/juanacuna07/PruebaGitFlow/pull/8)
 - [Tag v1.0.0](https://github.com/juanacuna07/PruebaGitFlow/releases/tag/v1.0.0)
+- Práctica completada: Mayo 2026
