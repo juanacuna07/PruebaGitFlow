@@ -4,14 +4,16 @@
 Proyecto de práctica para aprender el flujo de trabajo Git Flow correctamente.
 
 ## Instalación
-1. Clona el repositorio
-2. Ejecuta `npm install`
+1. Clona el repositorio: `git clone https://github.com/juanacuna07/PruebaGitFlow.git`
+2. Entra a la carpeta: `cd PruebaGitFlow`
+3. Instala las dependencias: `npm install`
 
 ## Uso
-Ejecuta `npm start` para iniciar el proyecto.
+1. Ejecuta la validación del README: `npm run validate:readme`
+2. Verifica que todas las secciones estén en `[OK]`
 
 ## Autores
-- Juan Camilo (juanacuna07)
+- Juan Camilo Acuña - [@juanacuna07](https://github.com/juanacuna07)
 
 ## Flujo de trabajo Git
 Se usa Git Flow con ramas: main, develop, feature, release y hotfix.
