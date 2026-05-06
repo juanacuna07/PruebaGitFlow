@@ -1,4 +1,4 @@
-# PruebaGitFlow
+# Nombre del Proyecto
 
 ## Descripción
 Proyecto de práctica para aprender el flujo de trabajo Git Flow.
